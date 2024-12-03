@@ -14,7 +14,6 @@
 }
 
 .item {
-    width: 300px;
     position: relative;
 }
 
@@ -32,3 +31,10 @@
     color: white;
 }
 
+.heart {
+    position: absolute;
+    top:0 ;
+    right:0 ;
+    background-color: white;
+    padding: 10px;
+}
