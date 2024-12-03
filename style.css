@@ -6,6 +6,9 @@
     justify-content: space-around;
     align-items: center;
 }
+.boolean {
+width: 190px;
+}
 
 .container {
     padding-top: 50px;
@@ -47,4 +50,11 @@
 
 ul {
     list-style-type: none;
+}
+.end {
+    height: 70px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
 }
