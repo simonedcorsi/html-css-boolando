@@ -9,9 +9,9 @@
 
 .container {
     padding-top: 50px;
-    width: 640px;
     display: flex;
     justify-content: space-around;
+    margin: 0 auto;
 }
 
 .item {
