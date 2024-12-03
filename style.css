@@ -28,7 +28,7 @@ width: 190px;
 
 .sconti {
     position: absolute;
-    bottom: 40px;
+    bottom: 80px;
 }
 .sconto-red {
     background-color: red;
@@ -46,6 +46,7 @@ width: 190px;
     right:0 ;
     background-color: white;
     padding: 10px;
+    
 }
 
 ul {
@@ -57,4 +58,6 @@ ul {
     color: white;
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    line-height: 160%;
 }
