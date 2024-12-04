@@ -61,3 +61,17 @@ ul {
     align-items: center;
     line-height: 160%;
 }
+
+.img-ghost {
+    display: none;
+}
+
+.img-container:hover .img-visibile {
+cursor: pointer;
+display: none;
+}
+
+.img-container:hover .img-ghost {
+    cursor: pointer;
+    display: block;
+}
